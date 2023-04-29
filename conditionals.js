@@ -9,3 +9,6 @@ if(cold){
 }
 
 console.log("Now you are ready to go outside!");
+if (!raining) {
+  console.log("Leave your umbrella at home!");
+}
